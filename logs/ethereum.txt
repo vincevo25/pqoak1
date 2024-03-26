@@ -189,3 +189,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x939423b77"}
 {"error":"{\"Error_GUID\":\"3406475882598470936\",\"Error\":\"Failed all retries {GUID:3406475882598470936,error:rpc error: code = Canceled desc = grpc: the client connection is closing,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x6ff2d4642"}
+{"jsonrpc":"2.0","id":1,"result":"0x847f66b9d"}
